@@ -3,8 +3,7 @@
 ### 💼 Sou QA Tester com experiência na área
 ### 📍 Estou em busca de  oportunidades de emprego
 ### 📫 Meu perfil no Linkedin  https://www.linkedin.com/in/beatriz-gomes-de-souza-1195aa190/
-
-#### Posto aqui diversos repositórios com testes automatizados desde cadastros até testes mais complexos com Cypress.
+### Posto aqui diversos repositórios com testes automatizados desde cadastros até testes mais complexos com Cypress.
 
 <!---
 debugBeatriz/debugBeatriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
