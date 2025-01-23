@@ -4,6 +4,7 @@
 ### 📍 Estou em busca de  oportunidades de emprego
 ### 📫 Meu perfil no Linkedin  https://www.linkedin.com/in/beatriz-gomes-de-souza-1195aa190/
 ### Posto aqui diversos repositórios com testes automatizados desde cadastros até testes mais complexos com Cypress.
+### Tenho conhecimento em Postman, Azure DevOps, Jira, Azure Studio, Documentação de casos de testes, JavaScript e Python.
 
 <!---
 debugBeatriz/debugBeatriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
